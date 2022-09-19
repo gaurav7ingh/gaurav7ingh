@@ -1,33 +1,76 @@
-<h1 align="center">Hi 👋, I'm Garuav Singh</h1>
-<h3 align="center">A passionate backend developer from India.</h3>
+                                                        
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Gaurav+Singh!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<h1 align="center"> 😇(Hello everyone) 👋</h1>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav7ingh&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav7ingh" /> </p>
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+                                                       
+- 🔭 I’m currently working on **MySkill😄**
+- 🌱 I’m currently learning **Masai School (Backend Developer)**
+- 💬 Ask me about **Java**
+- 👨‍💻 All of my projects are available at (https://gaurav7ingh.github.io/)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1PQpWj4CtJ_VJxqsA1pESwO_kseWeBr6d/view?usp=sharing)
+- 📫 How to reach me: **gauravsingh99626@gmail.com**
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/gaurav7ingh/gaurav7ingh.github.io)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-- 🌱 I’m currently learning **Java**
+                                                       
+<h2><i>My GitHub Stats</i></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav7ingh&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-- 👨‍💻 All of my projects are available at [https://gaurav7ingh.github.io/](https://gaurav7ingh.github.io/)
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav7ingh&show_icons=true&locale=en&theme=dark"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7ingh&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
+</p>
 
-- 💬 Ask me about **Java, JavaScript and HTML & CSS**
+<img src="https://activity-graph.herokuapp.com/graph?username=gaurav7ingh&theme=xcode" height ="307"/>
 
-- 📫 How to reach me **gauravsingh99626@gmail.com**
+![snake gif](https://github.com/gaurav7ingh/gaurav7ingh/blob/output/github-contribution-grid-snake.svg)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PQpWj4CtJ_VJxqsA1pESwO_kseWeBr6d/view?usp=sharing](https://drive.google.com/file/d/1PQpWj4CtJ_VJxqsA1pESwO_kseWeBr6d/view?usp=sharing)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-- ⚡ Fun fact **I think coding is fun**
 
+
+
+
+
+<div align="center">  
+                                                         
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-singh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-singh0" height="30" width="40" /></a>
 <a href="https://instagram.com/gaurav_7ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_7ingh" height="30" width="40" /></a>
 </p>
+</div>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav7ingh&show_icons=true&locale=en&layout=compact" alt="gaurav7ingh" /></p>
+                                                          
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav7ingh&show_icons=true&locale=en" alt="gaurav7ingh" /></p>
+<h3 align="left">🛠 &nbsp;Tech Stack </h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav7ingh&" alt="gaurav7ingh" /></p>
+<div align="center">  
+	
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+
+<!--    -->
+
+<!--    --> 
+
+
+
+
+</div>  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile..!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>

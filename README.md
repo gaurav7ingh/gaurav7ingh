@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav7ingh&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav7ingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav7ingh" alt="gaurav7ingh" /></a> </p>
-
 - 🔭 I’m currently working on [My Portfolio](https://github.com/gaurav7ingh/gaurav7ingh.github.io)
 
 - 🌱 I’m currently learning **Java**

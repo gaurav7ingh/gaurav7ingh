@@ -26,13 +26,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7ingh&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=gaurav7ingh&theme=xcode" height ="307"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=gaurav7ingh&theme=xcode" height ="307"/>
 
 ![snake gif](https://github.com/gaurav7ingh/gaurav7ingh/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
+ -->
 
 
 

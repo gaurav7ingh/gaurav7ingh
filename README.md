@@ -69,6 +69,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=#51cf66;size=20&amp;lines=Thanks!+For+Visiting+My+Profile..!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=51cf66&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile..!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">

@@ -1,7 +1,7 @@
                                                         
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=51cf66&amp;size=20&amp;lines=Hello.!+My+Name+is+Gaurav..!;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=51cf66&amp;size=20&amp;lines=Hello,+My+Name+is+Gaurav..!;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align="center"> 😇(Hello everyone) 👋</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>

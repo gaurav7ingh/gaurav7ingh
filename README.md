@@ -1,7 +1,6 @@
                                                         
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align="center"> 😇(Hello everyone) 👋</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
@@ -27,7 +26,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=gaurav7ingh&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/gaurav7ingh/gaurav7ingh/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gaurav7ingh/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -72,4 +71,4 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile..!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
 
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">

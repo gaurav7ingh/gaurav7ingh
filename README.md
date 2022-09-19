@@ -26,7 +26,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=gaurav7ingh&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/gaurav7ingh/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gaurav7ingh/gaurav7ingh/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -69,6 +69,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile..!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=#51cf66;size=20&amp;lines=Thanks!+For+Visiting+My+Profile..!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">

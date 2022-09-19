@@ -1,21 +1,19 @@
                                                         
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=51cf66&amp;size=20&amp;lines=Hello,+My+Name+is+Gaurav..!;" style="width: 100%;">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h1 align="center"> 😇(Hello everyone) 👋</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page! </br> I'm Gaurav, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Uttarakhand, India</b>. </p>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (Backend Developer)**
-- 💬 Ask me about **Java**
-- 👨‍💻 All of my projects are available at (https://gaurav7ingh.github.io/)
-- 📄 Know about my experiences (https://drive.google.com/file/d/1PQpWj4CtJ_VJxqsA1pESwO_kseWeBr6d/view?usp=sharing)
+- 🌱 I’m currently learning **JAVA**
+- 💬 Ask me about **Java, javaScript and HTML & CSS**
+- 👨‍💻 All of my projects are available at https://gaurav7ingh.github.io/
+- 📄 Know about my experiences https://drive.google.com/file/d/1PQpWj4CtJ_VJxqsA1pESwO_kseWeBr6d/view?usp=sharing
 - 📫 How to reach me: **gauravsingh99626@gmail.com**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
                                                        
 <h2><i>My GitHub Stats</i></h2>
@@ -46,7 +44,6 @@
 </p>
 </div>  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                           
 
@@ -69,8 +66,3 @@
 
 </div>  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=51cf66&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile..!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">

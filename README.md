@@ -2,7 +2,7 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Gaurav, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Uttarakhand, India</b>. </p>
+<p>Welcome to my page! </br> I'm Gaurav, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Uttarakhand, India</b>. </p>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        

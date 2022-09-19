@@ -1,10 +1,8 @@
                                                         
-![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Gaurav, Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Uttarakhand, India</b>. </p>
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **JAVA**
@@ -38,6 +36,7 @@
 <div align="center">  
                                                          
 <h3 align="left">Connect with me:</h3>
+	<hr>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-singh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-singh0" height="30" width="40" /></a>
 <a href="https://instagram.com/gaurav_7ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_7ingh" height="30" width="40" /></a>
@@ -48,8 +47,9 @@
                                                           
 
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
+<hr>
 
-<div align="center">  
+<div align="left">  
 	
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  

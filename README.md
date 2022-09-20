@@ -5,7 +5,7 @@
 
                                                        
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **MySQL**
 - 💬 Ask me about **Java, javaScript and HTML & CSS**
 - 👨‍💻 All of my projects are available at https://gaurav7ingh.github.io/
 - 📄 Know about my experiences https://drive.google.com/file/d/1PQpWj4CtJ_VJxqsA1pESwO_kseWeBr6d/view?usp=sharing

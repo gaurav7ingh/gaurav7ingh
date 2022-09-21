@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **MySQL**
 - 💬 Ask me about **Java, javaScript and HTML & CSS**
 - 👨‍💻 All of my projects are available at https://gaurav7ingh.github.io/
-- 📄 Know about my experiences t.ly/MC7n
+- 📄 Know about my experiences http://t.ly/MC7n/
 - 📫 How to reach me: **gauravsingh99626@gmail.com**
 
 

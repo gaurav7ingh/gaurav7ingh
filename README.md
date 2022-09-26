@@ -31,19 +31,54 @@
  -->
  
  
-<h2 align="left">🛠 &nbsp;Tech Stack </h2>
+<div align="center">
+  <h3 align="left" border="0"> 🚀 My Tech Stack<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30"/></h3>
+<br>
+<table align="center">
+<tbody>
+<tr valign="top">
+<td width="25%" align="center">
+<span>JAVA</span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+</td>
+<td width="25%" align="center">
+<span>MySQL</span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
+</td>
+<td width="25%" align="center">
+<span>SPRING BOOT</span><br><br>
+<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+</td>
+<td width="25%" align="center">
+<span>HIBERNATE</span><br><br>
+<img height="64px" src="https://dwglogo.com/wp-content/uploads/2017/12/1100px_Hibernate_logo_01-1024x707.png">
+</td>
+</tr>
 
-<div align="left">  
-	
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<tr valign="top">
+<td width="25%" align="center">
+<span>JAVA SCRIPT</span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+</td>
 
 
+<td width="25%" align="center">
+<span>CSS</span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
+</td>
 
-</div>  
+<td width="25%" align="center">
+<span>HTML</span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
+</td>
+<td width="25%" align="center">
+<span>𝗚𝗶𝘁</span><br><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+</td>
+</tr>
+</tbody>
+</table>
+</div> 
 
 
 

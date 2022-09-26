@@ -18,9 +18,9 @@
 <h2 align="center"><i>My GitHub Stats</i></h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav7ingh&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gaurav7ingh&show_icons=true&locale=en&theme=dark"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7ingh&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaurav7ingh&show_icons=true&locale=en&theme=dark"  height="139" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav7ingh&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" height="139" />
 </p>
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=gaurav7ingh&theme=xcode" height ="307"/>

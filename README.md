@@ -38,41 +38,41 @@
 <tbody>
 <tr valign="top">
 <td width="25%" align="center">
-<span>JAVA</span><br><br>
+<span><b>JAVA</b></span><br><br>
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </td>
 <td width="25%" align="center">
-<span>MySQL</span><br><br>
+<span><b>MySQL</b></span><br><br>
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
 </td>
 <td width="25%" align="center">
-<span>SPRING BOOT</span><br><br>
+<span><b>Spring</b></span><br><br>
 <img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
 </td>
 <td width="25%" align="center">
-<span>HIBERNATE</span><br><br>
-<img height="64px" src="https://dwglogo.com/wp-content/uploads/2017/12/1100px_Hibernate_logo_01-1024x707.png">
+<span><b>HIBERNATE</b></span><br><br>
+<img height="64px" src="https://hibernate.org/images/hibernate-logo.svg">
 </td>
 </tr>
 
 <tr valign="top">
 <td width="25%" align="center">
-<span>JAVA SCRIPT</span><br><br>
+<span><b>JavaScript</b></span><br><br>
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
 </td>
 
 
 <td width="25%" align="center">
-<span>CSS</span><br><br>
+<span><b>CSS</b></span><br><br>
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
 </td>
 
 <td width="25%" align="center">
-<span>HTML</span><br><br>
+<span><b>HTML</b></span><br><br>
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
 </td>
 <td width="25%" align="center">
-<span>𝗚𝗶𝘁</span><br><br>
+<span><b>Git</b></span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 </td>
 </tr>

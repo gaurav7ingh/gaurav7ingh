@@ -6,7 +6,7 @@
 <p><b>Welcome to my page! </br> I'm Gaurav, Backend developer from</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Uttarakhand, India</b>. </p>
                                                        
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Hibernate**
 - 💬 Ask me about **Java, javaScript and HTML & CSS**
 - 👨‍💻 All of my projects are available at **https://gaurav7ingh.github.io/**
 - 📄 Know about my experiences **http://t.ly/MC7n/**

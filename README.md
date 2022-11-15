@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Hibernate**
 - 💬 Ask me about **Java, javaScript and HTML & CSS**
-- 👨‍💻 All of my projects are available at <a href = https://gaurav7ingh.github.io />Porfolio</a>
-- 📄 Know about my experiences <a href = http://t.ly/MC7n />Resume</a>
+- 👨‍💻 All of my projects are available at <a href = https://gaurav7ingh.github.io /> **Porfolio** </a>
+- 📄 Know about my experiences <a href = http://t.ly/MC7n /> **Resume** </a>
 - 📫 How to reach me: **gauravsingh99626@gmail.com**
 
 

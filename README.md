@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Hibernate**
 - 💬 Ask me about **Java, javaScript and HTML & CSS**
-- 👨‍💻 All of my projects are available at **https://gaurav7ingh.github.io/**
-- 📄 Know about my experiences **http://t.ly/MC7n/**
+- 👨‍💻 All of my projects are available at <a href = https://gaurav7ingh.github.io />Porfolio</a>
+- 📄 Know about my experiences <a href = http://t.ly/MC7n />Resume</a>
 - 📫 How to reach me: **gauravsingh99626@gmail.com**
 
 
@@ -90,5 +90,6 @@
 <div align="center" display="flex">
   <a  href="https://www.linkedin.com/in/gaurav-singh0/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a  href="mailto: gauravsingh99626@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a  href="https://www.hackerrank.com/gauravsingh99626" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a  href="https://github.com/gaurav7ingh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>

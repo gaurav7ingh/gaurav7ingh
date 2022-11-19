@@ -7,8 +7,8 @@
 <p><b>Welcome to my page! </br> I'm Gaurav, Backend developer from</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Uttarakhand, India</b>. </p>
                                                        
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Hibernate**
-- 💬 Ask me about **Java, javaScript and HTML & CSS**
+- 🌱 I’m currently learning **AWS**
+- 💬 Ask me about **Java, javaScript and MySQL & Hibernate**
 - 👨‍💻 All of my projects are available at <a href = https://gaurav7ingh.github.io /> **Porfolio** </a>
 - 📄 Know about my experiences <a href = http://t.ly/MC7n /> **Resume** </a>
 - 📫 How to reach me: **gauravsingh99626@gmail.com**

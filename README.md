@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 <br>
-<p><b>Welcome to my page! </br> I'm Gaurav, Backend developer from</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Uttarakhand, India</b>. </p>
+<p><b>Welcome to my page! </br> I'm Gaurav, Java Backend developer from</b> <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Uttarakhand, India</b>. </p>
                                                        
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **AWS**

@@ -43,13 +43,13 @@
 <span><b>JAVA</b></span><br><br>
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </td>
+ <td width="25%" align="center">
+<span><b>Spring-Boot</b></span><br><br>
+<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+</td>
 <td width="25%" align="center">
 <span><b>MySQL</b></span><br><br>
 <img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
-</td>
-<td width="25%" align="center">
-<span><b>Spring</b></span><br><br>
-<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
 </td>
 <td width="25%" align="center">
 <span><b>HIBERNATE</b></span><br><br>

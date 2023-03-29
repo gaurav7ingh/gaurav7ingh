@@ -8,7 +8,7 @@
                                                        
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **AWS**
-- 💬 Ask me about **Java, Spring-Boot and MySQL & Hibernate**
+<!-- - 💬 Ask me about **Java, Spring-Boot and MySQL & Hibernate** -->
 - 👨‍💻 All of my projects are available at <a href = https://gaurav7ingh.github.io /> **Porfolio** </a>
 - 📄 Know about my experiences <a href = http://t.ly/MC7n /> **Resume** </a>
 - 📫 How to reach me: **gtogaurav@gmail.com**

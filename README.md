@@ -36,7 +36,7 @@
 </td>
  <td width="25%" align="center">
 <span><b>Spring-Boot</b></span><br><br>
-<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+<img height="64px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">
 </td>
 <td width="25%" align="center">
 <span><b>MySQL</b></span><br><br>

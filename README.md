@@ -11,9 +11,9 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **AWS**<!-- - 💬 Ask me about **Java, Spring-Boot and MySQL & Hibernate** -->
 - 👨‍💻 All of my projects are available at <a href = https://gaurav7ingh.github.io /> **Porfolio** </a>
-- 📄 Know about my experiences <a href = https://drive.google.com/file/d/1PQpWj4CtJ_VJxqsA1pESwO_kseWeBr6d/view?usp /> **Resume** </a>
+- 📄 Know about my experiences <a href = http://t.ly/MC7n /> **Resume** </a>
 - 📫 How to reach me: **gtogaurav@gmail.com**
-<!-- - http://t.ly/MC7n  -> currently not working the shortcut for resume --> 
+<!-- -   -> currently not working the shortcut for resume --> 
 
 <br>
                                                        
